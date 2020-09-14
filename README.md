@@ -15,7 +15,6 @@ when using a humanoid interactive robot (NAO robot) in teaching versus learning 
 multimedia devices.
 ## Installation
 - Install Python 3
-- Install Jupyter Notebook
 - Setup Nao Robot
 ## License
 
